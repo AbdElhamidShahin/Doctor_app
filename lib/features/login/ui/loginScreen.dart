@@ -11,12 +11,9 @@ class LoginScreen extends StatelessWidget {
         Center(child: Text("login Screen"),
 
         ),
-        TextField(onTap: (){},)
+        TextField(onTap: (){},),
       ],
     );
+    return Center(child: Text("login_screen"));
   }
 }
-
-
-
-
