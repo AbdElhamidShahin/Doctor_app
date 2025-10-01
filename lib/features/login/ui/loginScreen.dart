@@ -5,7 +5,7 @@ class LoginScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(child: Text("login "));
+    return Center(child: Text("login screen "));
   }
 }
 
